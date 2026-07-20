@@ -1,15 +1,29 @@
-.venv/
-venv/
-
-__pycache__/
-
-*.pyc
-
-*.zip
-
-*.db
-
-runs/
-outputs/
-
-models/*.pt
+env) PS C:\Users\Mounika\Desktop\object_ tracking _system> git config user.name
+MounikaMajeti
+(venv) PS C:\Users\Mounika\Desktop\object_ tracking _system> git config user.email
+mounika_majeti@srmap.edu.in
+(venv) PS C:\Users\Mounika\Desktop\object_ tracking _system> git commit -m "Initial commit - AI Object Detection and Tracking System"
+[master (root-commit) 1ffd7ec] Initial commit - AI Object Detection and Tracking System
+ 20 files changed, 711 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 README.md
+ create mode 100644 app.py
+ create mode 100644 database/__init__.py
+ create mode 100644 database/database.py
+ create mode 100644 detector/__init__.py
+ create mode 100644 detector/yolo_detector.py
+ create mode 100644 gui/dashboard.py
+ create mode 100644 output/detection_system.log
+ create mode 100644 output/recordings/recording_1784551297.mp4
+ create mode 100644 output/recordings/recording_1784551451.mp4
+ create mode 100644 output/screenshots/screenshot_1784551448.jpg
+ create mode 100644 requirements.txt
+ create mode 100644 tracker/__init__.py
+ create mode 100644 tracker/deep_sort_tracker.py
+ create mode 100644 utils/__init__.py
+ create mode 100644 utils/counter.py
+ create mode 100644 utils/logger.py
+ create mode 100644 utils/video_utils.py
+ create mode 100644 yolov8n.pt
+(venv) PS C:\Users\Mounika\Desktop\object_ tracking _system> git branch -M main
+(venv) PS C:\Users\Mounika\Desktop\object_ tracking _system> 
