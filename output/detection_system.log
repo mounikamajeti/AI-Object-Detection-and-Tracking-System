@@ -1,0 +1,76 @@
+2026-07-20 18:07:41 [INFO] MobileNetV2 Embedder for Deep Sort initialised
+2026-07-20 18:07:41 [INFO] - gpu enabled: False
+2026-07-20 18:07:41 [INFO] - half precision: False
+2026-07-20 18:07:41 [INFO] - max batch size: 16
+2026-07-20 18:07:41 [INFO] - expects BGR: True
+2026-07-20 18:07:41 [INFO] DeepSort Tracker initialised
+2026-07-20 18:07:41 [INFO] - max age: 30
+2026-07-20 18:07:41 [INFO] - appearance threshold: 0.2
+2026-07-20 18:07:41 [INFO] - nms threshold: OFF
+2026-07-20 18:07:41 [INFO] - max num of appearance features: None
+2026-07-20 18:07:41 [INFO] - overriding track class : No
+2026-07-20 18:07:41 [INFO] - today given : No
+2026-07-20 18:07:41 [INFO] - in-build embedder : Yes
+2026-07-20 18:07:41 [INFO] - polygon detections : No
+2026-07-20 18:07:48 [ERROR] Failed to save detection: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 19452 and this is thread id 4536.
+2026-07-20 18:07:56 [ERROR] Failed to save detection: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 19452 and this is thread id 15512.
+2026-07-20 18:08:37 [ERROR] Failed to save detection: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 19452 and this is thread id 3168.
+2026-07-20 18:09:04 [INFO] MobileNetV2 Embedder for Deep Sort initialised
+2026-07-20 18:09:04 [INFO] - gpu enabled: False
+2026-07-20 18:09:04 [INFO] - half precision: False
+2026-07-20 18:09:04 [INFO] - max batch size: 16
+2026-07-20 18:09:04 [INFO] - expects BGR: True
+2026-07-20 18:09:04 [INFO] DeepSort Tracker initialised
+2026-07-20 18:09:04 [INFO] - max age: 30
+2026-07-20 18:09:04 [INFO] - appearance threshold: 0.2
+2026-07-20 18:09:04 [INFO] - nms threshold: OFF
+2026-07-20 18:09:04 [INFO] - max num of appearance features: None
+2026-07-20 18:09:04 [INFO] - overriding track class : No
+2026-07-20 18:09:04 [INFO] - today given : No
+2026-07-20 18:09:04 [INFO] - in-build embedder : Yes
+2026-07-20 18:09:04 [INFO] - polygon detections : No
+2026-07-20 18:09:11 [ERROR] Failed to save detection: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 9140 and this is thread id 18120.
+2026-07-20 18:09:18 [ERROR] Failed to save detection: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 9140 and this is thread id 24596.
+2026-07-20 18:11:23 [INFO] MobileNetV2 Embedder for Deep Sort initialised
+2026-07-20 18:11:23 [INFO] - gpu enabled: False
+2026-07-20 18:11:23 [INFO] - half precision: False
+2026-07-20 18:11:23 [INFO] - max batch size: 16
+2026-07-20 18:11:23 [INFO] - expects BGR: True
+2026-07-20 18:11:23 [INFO] DeepSort Tracker initialised
+2026-07-20 18:11:23 [INFO] - max age: 30
+2026-07-20 18:11:23 [INFO] - appearance threshold: 0.2
+2026-07-20 18:11:23 [INFO] - nms threshold: OFF
+2026-07-20 18:11:23 [INFO] - max num of appearance features: None
+2026-07-20 18:11:23 [INFO] - overriding track class : No
+2026-07-20 18:11:23 [INFO] - today given : No
+2026-07-20 18:11:23 [INFO] - in-build embedder : Yes
+2026-07-20 18:11:23 [INFO] - polygon detections : No
+2026-07-20 18:12:51 [INFO] MobileNetV2 Embedder for Deep Sort initialised
+2026-07-20 18:12:51 [INFO] - gpu enabled: False
+2026-07-20 18:12:51 [INFO] - half precision: False
+2026-07-20 18:12:51 [INFO] - max batch size: 16
+2026-07-20 18:12:51 [INFO] - expects BGR: True
+2026-07-20 18:12:51 [INFO] DeepSort Tracker initialised
+2026-07-20 18:12:51 [INFO] - max age: 30
+2026-07-20 18:12:51 [INFO] - appearance threshold: 0.2
+2026-07-20 18:12:51 [INFO] - nms threshold: OFF
+2026-07-20 18:12:51 [INFO] - max num of appearance features: None
+2026-07-20 18:12:51 [INFO] - overriding track class : No
+2026-07-20 18:12:51 [INFO] - today given : No
+2026-07-20 18:12:51 [INFO] - in-build embedder : Yes
+2026-07-20 18:12:51 [INFO] - polygon detections : No
+2026-07-20 18:15:35 [ERROR] Failed to save detection: Cannot operate on a closed database.
+2026-07-20 18:18:26 [INFO] MobileNetV2 Embedder for Deep Sort initialised
+2026-07-20 18:18:26 [INFO] - gpu enabled: False
+2026-07-20 18:18:26 [INFO] - half precision: False
+2026-07-20 18:18:26 [INFO] - max batch size: 16
+2026-07-20 18:18:26 [INFO] - expects BGR: True
+2026-07-20 18:18:26 [INFO] DeepSort Tracker initialised
+2026-07-20 18:18:26 [INFO] - max age: 30
+2026-07-20 18:18:26 [INFO] - appearance threshold: 0.2
+2026-07-20 18:18:26 [INFO] - nms threshold: OFF
+2026-07-20 18:18:26 [INFO] - max num of appearance features: None
+2026-07-20 18:18:26 [INFO] - overriding track class : No
+2026-07-20 18:18:26 [INFO] - today given : No
+2026-07-20 18:18:26 [INFO] - in-build embedder : Yes
+2026-07-20 18:18:26 [INFO] - polygon detections : No

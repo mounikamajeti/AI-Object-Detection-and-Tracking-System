@@ -1,0 +1,15 @@
+.venv/
+venv/
+
+__pycache__/
+
+*.pyc
+
+*.zip
+
+*.db
+
+runs/
+outputs/
+
+models/*.pt
