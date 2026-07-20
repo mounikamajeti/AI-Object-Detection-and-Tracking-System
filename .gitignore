@@ -27,3 +27,13 @@ mounika_majeti@srmap.edu.in
  create mode 100644 yolov8n.pt
 (venv) PS C:\Users\Mounika\Desktop\object_ tracking _system> git branch -M main
 (venv) PS C:\Users\Mounika\Desktop\object_ tracking _system> 
+__pycache__/
+*.pyc
+
+models/*.pt
+
+output/
+
+*.db
+
+tem*
